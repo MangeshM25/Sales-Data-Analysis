@@ -22,6 +22,9 @@ DAX Measures & Time Intelligence
 Interactive Reports, Drill-through, and Dynamic Filters
 Business Intelligence & Data Visualization
 
+Screenshort:
+https://github.com/MangeshM25/Sales-Data-Analysis/blob/main/Sales%20Data%20Analysis%20Snips.docx
+
 
 Tools Used
 Power BI Desktop
